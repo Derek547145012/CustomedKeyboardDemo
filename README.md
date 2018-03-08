@@ -21,6 +21,7 @@
 - 用起来也很简单，可以参考demo中TestController中的代码。路径：CustomedKeyboardDemo-master/CustomedKeyboardDemo/CustomedKeyboardDemo/DSKeyboard/Controllers
 
 1.先导入头文件，#import "DSKyeboard.h" 
+
 2.在视图加载完成后，对DSKyeboard进行初始化，并赋值给某个输入框的inputView属性。再通过接口- (void)dsKeyboardTextChangedOutputBlock:(DSKeyboardOutput)output loginBlock:(DSKeyboardLogin)login;设置回调的block即可。
 ```
 - (void)setupCustomedKeyboard {
