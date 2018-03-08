@@ -3,8 +3,6 @@
 从前，公司有个需求，要我写个键盘登录用。
 两三天之后，它就出来了。但是没多久，这个需求又被砍了。。。
 
-<iframe height=450 width=600 src="http://v.youku.com/v_show/id_XMzQ0ODA3ODY2MA==.html?spm=a2hzp.8253869.0.0" frameborder=0 allowfullscreen></iframe>
-
 #### 简单介绍
 
 - 使用autolayout布局，block回调。
