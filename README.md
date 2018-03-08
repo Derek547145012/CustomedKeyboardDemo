@@ -3,6 +3,8 @@
 从前，公司有个需求，要我写个键盘登录用。
 两三天之后，它就出来了。但是没多久，这个需求又被砍了。。。
 
+![键盘截图.png](http://upload-images.jianshu.io/upload_images/1794486-abebe9040c7af76d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 #### 简单介绍
 
 - 使用autolayout布局，block回调。
