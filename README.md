@@ -41,3 +41,5 @@
 ```
 
 3.使用时只需要把views文件夹拖入自己的工程即可。路径：CustomedKeyboardDemo-master/CustomedKeyboardDemo/CustomedKeyboardDemo/DSKeyboard/Views
+
+4. 如果有任何疑问可以联系我，如果觉得对你有所帮助话给个Star✨吧！！🙂
